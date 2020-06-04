@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1591267573 source:c:\users\sumon dey\desktop\cp\codingblocks\nincoinchange\main.cpp
+	<iostream>
+	<climits>
+	<string.h>
+
